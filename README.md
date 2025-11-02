@@ -12,7 +12,7 @@
 
 ## Preprocessing
 - [ ] Make sure to scale data columns so they contribute equally for machine learning
-- [] label encode (for binary or classification with order)/ one hot encode (for classification without order like colors)
+- [ ] label encode (for binary or classification with order)/ one hot encode (for classification without order like colors)
 - [x] choose your target variable to predict (in this case Final Grade)
 - [x] Split the entire data to 70:30 ratio 
     - train the data on 70 and validate on the remaining 30%
