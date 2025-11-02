@@ -1,8 +1,8 @@
 # DSS Project
 ## Data Cleaning
-- [ ] Check for duplicates
-- [ ] Check for missing values
-- [ ] Check for the datatype format
+- [x] Check for duplicates
+- [x] Check for missing values
+- [x] Check for the datatype format
 - [ ] Check inconsistencies
 
 ## Exploratory Data Analysis
